@@ -1,3 +1,5 @@
+"use strict";
+
 function normalizeInput(input) {
   const normalizedInput = input.toLowerCase(); // Change this line
 

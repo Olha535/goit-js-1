@@ -149,4 +149,4 @@ const credentials = {
   [passwordInputName]: "jqueryismyjam",
 }; */
 
-//10.
+//10.  Цикл for...in

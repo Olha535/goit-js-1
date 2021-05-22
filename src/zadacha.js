@@ -2,7 +2,7 @@
 
 // Схема игры "Угадай число".
 
-const secretNumber = Math.round(Math.random() * 100 + 1);
+/*const secretNumber = Math.round(Math.random() * 100 + 1);
 //console.log("secretNumber:", secretNumber);
 
 let userNumber;
@@ -12,7 +12,7 @@ do {
   console.log("userNumber:", userNumber);
 
   if (secretNumber === userNumber) {
-    console.log("youwon!");
+    console.log("you won!");
   }
 
   if (secretNumber > userNumber) {
@@ -22,4 +22,4 @@ do {
   if (secretNumber < userNumber) {
     console.log("x < ", userNumber);
   }
-} while (secretNumber !== userNumber);
+} while (secretNumber !== userNumber);*/

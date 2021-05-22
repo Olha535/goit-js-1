@@ -1,3 +1,5 @@
+"use strict";
+
 function formatMessage(message, maxLength) {
   let result;
   // Change code below this line
